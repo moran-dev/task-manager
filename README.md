@@ -1,2 +1,2 @@
 # task-manager
- Um simples gerenciador de tarefas utilizando React no front-end, TypeScript para tipagem, e GraphQL no back-end para fornecer e consumir a API.
+A simple task manager using React on the front-end, TypeScript for typing, and GraphQL on the back-end to provide and consume the API.
